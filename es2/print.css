@@ -1,0 +1,9 @@
+@media print {
+@page {size: 210mm 297mm; margin: 30mm;}
+
+h1 {display:none;}
+
+title {display:none;}
+
+}
+
